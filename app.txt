@@ -1,3 +1,8 @@
 initial state
+<<<<<<< HEAD
 new changes made to the document
 another change made to the document
+=======
+new changes made to the document 
+update under second commit
+>>>>>>> version2_update
